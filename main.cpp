@@ -8,7 +8,7 @@
 
 
     //include Arduino.h only works on VS code platform IO
-    //PLEASE REMOVE THIS IF YOU ARE USING ARDUINO IDE
+    //PLEASE REMOVE THIS IF YOU ARE USING ARDUINO IDE AND ALSO REPLACE .cpp as .ino file
 
     #include <Arduino.h>
 

@@ -57,7 +57,8 @@ void setup() {
        pinMode(bbutton, INPUT_PULLUP);
        pinMode(bzbutton, INPUT_PULLUP);
        pinMode(pumpkinmode, INPUT_PULLUP);
-
+       Serial.begin(9600);
+    
 }
 
 void loop() {
